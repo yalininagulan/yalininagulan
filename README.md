@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm yalini Naguleswaran</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data**
+- 🌱 I’m currently learning **Data Analysing skills**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/yalininaguleswaran/home](https://sites.google.com/view/yalininaguleswaran/home)
 
